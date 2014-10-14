@@ -1,1 +1,1 @@
-Change the configuration (config.ini) and then execute compress.php via cli or browser
+Change the configuration (config.ini) and then execute compress.php via cli or browser-changed

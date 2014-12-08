@@ -1,4 +1,4 @@
-aaa
+
 
 -------------------------------------- Minify E:/www/2.7/library/javascript/scriptaculous/lib/prototype.js-------------------------------------- 
 
